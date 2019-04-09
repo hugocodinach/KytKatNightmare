@@ -1,2 +1,22 @@
-# KytKatNightmare
-Sources de ma vidéo tutoriel NightmareJS
+# NightmareJS Tutoriel
+Tutoriel pour utiliser NightmareJS
+
+![](https://blog.shevarezo.fr/uploads/posts/700/oxWuFpda_nightmarejs_cover.jpg)
+
+## Prérequis
+
+1. Cloner le repository
+```bash
+git clone https://github.com/hugocodinach/KytKatNightmare.git
+```
+
+
+2. Installer NightmareJS
+```bash
+npm install --save nightmare
+```
+
+## Liens utiles
+
+* ![](https://github.com/segmentio/nightmare)
+* ![](https://www.nike.com/gb/en_gb/)
